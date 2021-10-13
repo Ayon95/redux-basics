@@ -40,12 +40,14 @@ $ npm start
 Install project dependencies using npm:
 
 ```bash
-# go into redux-regular folder
+# go into redux-toolkit folder
 $ cd redux-toolkit
 
 # install the necessary packages
 $ npm install
 
 # start the local development server
-$ npm start
+$ npm run server
 ```
+
+Note: 'server' is an npm script that starts a local JSON server at port 8000. Check out package.json to see the script.
