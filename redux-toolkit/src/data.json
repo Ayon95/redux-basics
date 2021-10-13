@@ -1,0 +1,18 @@
+{
+	"bills": [
+		{
+			"id": 1,
+			"name": "432 Scotia Mortgage automatic"
+		},
+
+		{
+			"id": 2,
+			"name": "72 Cadillac Water"
+		},
+
+		{
+			"id": 3,
+			"name": "432 Pastern Gas"
+		}
+	]
+}
